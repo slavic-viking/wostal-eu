@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>html on tomasz wostal</title>
-    <link>http://www.example.com/tags/html/</link>
-    <description>Recent content in html on tomasz wostal</description>
+    <title>html on Tomasz Wostal</title>
+    <link>http://example.com/tags/html/</link>
+    <description>Recent content in html on Tomasz Wostal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guia de Sintaxe Markdown</title>
-      <link>http://www.example.com/posts/markdown-syntax.pt-br/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Project 2</title>
+      <link>http://example.com/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/markdown-syntax.pt-br/</guid>
-      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://www.example.com/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>http://example.com/project/project2/</guid>
+      <description></description>
     </item>
     
   </channel>
